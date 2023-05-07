@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Bird {
+public class Bird implements Contract{
     
     private int size;
     private String name;
